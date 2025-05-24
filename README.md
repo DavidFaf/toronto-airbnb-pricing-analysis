@@ -1,6 +1,6 @@
 # 🏙️ Toronto Airbnb Pricing Analysis (2025)
 
-![Dashboard 1](https://github.com/user-attachments/assets/480acc21-f39f-4726-8d9b-fbb0bd8a739c)
+![Dashboard 1](https://github.com/user-attachments/assets/a8dd0f30-a8e7-4957-8834-36f8ab75dd17)
 
 This project presents a detailed Tableau dashboard analyzing **2025 Airbnb listings in Toronto**, Canada. The goal is to uncover trends in pricing, neighborhood performance, room type distribution, and monthly revenue — empowering hosts, travelers, and real estate analysts to make informed decisions.
 
@@ -52,10 +52,8 @@ This project presents a detailed Tableau dashboard analyzing **2025 Airbnb listi
 
 ---
 
-## 🌐 (Optional) View Live Dashboard
-
-> Link to Tableau Public (if published)  
-> _e.g._ [View Dashboard on Tableau Public]([https://public.tableau.com/...](https://public.tableau.com/app/profile/david7888/viz/TorontoAirBnBPricingDashbaord/Dashboard1))
+## 🌐 (Optional) View Live Dashboard 
+> [View Dashboard on Tableau Public]([https://public.tableau.com/...](https://public.tableau.com/app/profile/david7888/viz/TorontoAirBnBPricingDashbaord/Dashboard1))
 
 ---
 
