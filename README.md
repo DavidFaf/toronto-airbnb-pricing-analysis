@@ -53,7 +53,7 @@ This project presents a detailed Tableau dashboard analyzing **2025 Airbnb listi
 ---
 
 ## 🌐 (Optional) View Live Dashboard 
-> [View Dashboard on Tableau Public]([https://public.tableau.com/...](https://public.tableau.com/app/profile/david7888/viz/TorontoAirBnBPricingDashbaord/Dashboard1))
+> [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/david7888/viz/TorontoAirBnBPricingDashbaord/Dashboard1)
 
 ---
 
